@@ -13,7 +13,7 @@ const ProjectCard = (props: any) => {
         <Card.Section className="p-3">
             <Image
                 className="!rounded-xl !shadow-[0_0_5px_0_#64FFDA]"
-                src={props.image}
+                src={`${process.env.PUBLIC_URL}/${props.image}`}
                 alt={props.image}
             />
         </Card.Section>
