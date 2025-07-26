@@ -1,4 +1,4 @@
-import { IconBrandGithub, IconBrandInstagram, IconBrandLeetcode, IconBrandLinkedin, IconBrandYoutube } from "@tabler/icons-react";
+import { IconBrandGithub, IconBrandInstagram, IconBrandLeetcode, IconBrandLinkedin, IconBrandTwitter, IconBrandX, IconBrandYoutube } from "@tabler/icons-react";
 const Info = {
     name: "Bihan Banerjee",
     stack: ["3rd Year Undergraduate", "Full Stack Web Developer", "Competitive Programmer", "Cybersecurity Enthusiast", "AIML Enthusiast"],
@@ -68,27 +68,34 @@ const ProjectInfo = [
 const SkillInfo = [
     {
         title: "Frontend",
-        skills: ["HTML", "CSS", "SASS", "JavaScript", "React JS", "Angular", "Redux", "Tailwind CSS", "GSAP", "Material UI", "Bootstrap"
-        ]
+        skills: ["HTML", "CSS", "TypeScript", "JavaScript", "React JS", "Vite", "Redux", "Tailwind CSS", "Leaflet", "Material UI", "Bootstrap"]
     },
     {
         title: "Backend",
-        skills: ["Springboot", "Node JS", "Express JS", "MySQL", "MongoDB", "Firebase", "PostgresSQL"]
+        skills: ["Flask", "Node JS", "Express JS", "MySQL", "MongoDB", "Firebase", "PostgresSQL"]
     },
     {
         title: "Languages",
-        skills: ["C", "C++", "Java", "JavaScript", "TypeScript"]
+        skills: ["C", "C++", "Java", "JavaScript", "TypeScript", "Python"]
+    },
+    {
+        title: "Cybersecurity",
+        skills: ["Kali", "Wireshark", "Bash", "SonarQube", "Semgrep", "BurpSuite", "Metasploit"]
+    },
+    {
+        title: "Machine Learning",
+        skills: ["Jupyter", "Pandas", "NumPy", "Scikit-learn", "TensorFlow"]
     },
     {
         title: "Tools",
-        skills: ["Git", "Github", "VS Code", "Postman", "MongoDB Compass", "Spring Tool Suite"]
+        skills: ["Git", "Github", "VS Code", "Postman", "Docker", "Canva", "Unity", "Kafka"]
     }
 ]
 const socialLinks = [
     { link: "https://github.com/Bihan-Banerjee", icon: IconBrandGithub },
     { link: "https://www.linkedin.com/in/bihan-banerjee-70905228b/", icon: IconBrandLinkedin },
     { link: "https://www.instagram.com/banerjee.bihan/", icon: IconBrandInstagram }, 
-    { link: "https://www.youtube.com/channel/UC1ki6jaFvFiH_E79b9FYptw", icon: IconBrandYoutube },
+    { link: "https://x.com/BanerjeeBihan", icon: IconBrandX },
     { link: "https://www.leetcode.com/u/Bihan26/", icon: IconBrandLeetcode }
 ];
 
