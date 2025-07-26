@@ -95,18 +95,25 @@ const socialLinks = [
 
 const ExperienceInfo = [
     {
-        role: "Specialist Programmer",
-        company: "Infosys",
-        date: "Oct 2023 - Present",
-        desc: "I led software development with Spring Boot, React, and Angular, creating scalable microservices and interfaces. I optimized performance by integrating frontend and backend, and enhanced security with RESTful APIs. Collaborating in agile teams, I fostered innovation and efficiency for top-quality solutions.",
-        skills: ["Springboot", "React JS", "Angular", "Node JS", "MySQL", "MongoDB", "Microservices"]
+        role: "Events Head",
+        company: "Mozilla Firefox Club VIT",
+        date: "June 2024 - Present",
+        desc: "As Events Head, I spearheaded the planning and execution of technical workshops, speaker sessions, and hands-on hack events focused on open-source and emerging technologies. I collaborated with external clubs and industry experts to curate engaging content and boost student participation across campus.",
+        skills: ["General Management", "Public Speaking", "Team Leadership", "Event Planning", "Outreach"]
     },
     {
-        role: "System Engineer",
-        company: "Infosys",
-        date: "Nov 2022 - Sep 2023",
-        desc: " I leveraged my skills in Java, Selenium, automation testing, and MySQL to design and implement automated testing frameworks, ensuring robust software validation. I optimized database performance and reliability, and collaborated with cross-functional teams to enhance system operations and ensure seamless integration.",
-        skills: ["Java", "MySQL", "Hibernate", "Selenium", "Jenkins", "JIRA", "Automation Testing"]
+        role: "R&D Senior Core Member",
+        company: "IEEE Computer Society, VIT",
+        date: "May 2024 - Present",
+        desc: "In my role as a senior core member of the R&D team, I worked on research-driven development projects, explored innovative tech stacks, and contributed to IEEE CS’s annual publications and internal tools. I also mentored junior members and helped drive the technical direction of ongoing society initiatives.",
+        skills: ["Research & Documentation", "Technical Writing", "Mentorship", "Git", "Blog Writing"]
+    },
+    {
+        role: "MLOps Intern",
+        company: "DCG Data-Core Systems India Pvt Ltd",
+        date: "June 2025 - July 2025",
+        desc: "During my internship, I built a real-time sentiment analysis system using IMDb datasets with a Flask-based API, Kafka for streaming, and a live dashboard for visualization. The project involved integrating ML model inference, ensuring robust performance, and deploying the solution for internal evaluation.",
+        skills: ["Flask", "Python", "Kafka", "Jupyter", "Linux & Bash Scripting", "DevOps", "Machine Learning"]
     }
 ]
 const Slugs = [
