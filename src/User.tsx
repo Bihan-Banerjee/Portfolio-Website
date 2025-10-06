@@ -54,14 +54,23 @@ const ProjectInfo = [
         github: "https://github.com/Bihan-Banerjee/AI-Code-Security"
     },
     {
-        title: "RogueAI",
-        desc: "A Reinforcement Learning agent in a custom Gridworld environment, RogueAI is a simulation-based AI project that explores reinforcement learning through a custom-built Gridworld survival environment. The agent learns optimal navigation and decision-making strategies through reward-based training using Q-learning and deep reinforcement techniques. Developed in Unity for immersive game simulation and Python for training algorithms, the project allows real-time visualization of the AI’s learning progression. It's a foundational experiment in adaptive AI behavior, game AI design, and RL-based decision systems.",
-        image: "work_in_progress.png",
+        title: "CyberX",
+        desc: "CyberX is a comprehensive web-based cybersecurity toolkit designed for learning, analysis, and simulation. It integrates offensive and defensive tools into a unified platform, including container and Kubernetes scanners, cryptography utilities (hashing, cipher, RSA/AES, JWT), steganography modules (image, audio, metadata), OSINT tools (breach checker, Google dorking), and advanced features like network packet analysis. The project emphasizes real-world applicability by combining security assessments, intelligence gathering, and defensive simulations with a clean cyberpunk-themed UI. Its modular backend enables scalability, while the frontend provides interactive, visually consistent components for professional-grade demonstrations.",
+        image: "CyberX.png",
         live: false,
-        technologies: ["Unity", "Python", "PyTorch"],
-        link: "https://github.com/Bihan-Banerjee/Rogue-AI",
-        github: "https://github.com/Bihan-Banerjee/Rogue-AI"
-    }
+        technologies: ["React", "TypeScript", "Python", "Wireshark", "Node.js"],
+        link: "https://github.com/Bihan-Banerjee/CyberX",
+        github: "https://github.com/Bihan-Banerjee/CyberX"
+    },
+//    {
+//        title: "RogueAI",
+//        desc: "A Reinforcement Learning agent in a custom Gridworld environment, RogueAI is a simulation-based AI project that explores reinforcement learning through a custom-built Gridworld survival environment. The agent learns optimal navigation and decision-making strategies through reward-based training using Q-learning and deep reinforcement techniques. Developed in Unity for immersive game simulation and Python for training algorithms, the project allows real-time visualization of the AI’s learning progression. It's a foundational experiment in adaptive AI behavior, game AI design, and RL-based decision systems.",
+//        image: "work_in_progress.png",
+//        live: false,
+//        technologies: ["Unity", "Python", "PyTorch"],
+//        link: "https://github.com/Bihan-Banerjee/Rogue-AI",
+//        github: "https://github.com/Bihan-Banerjee/Rogue-AI"
+//    }
 ]
 
 
