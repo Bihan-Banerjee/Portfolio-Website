@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Bihan-Banerjee/Portfolio-Website/static/css/main.d52c0920.css",
-    "main.js": "/Bihan-Banerjee/Portfolio-Website/static/js/main.ef56519a.js",
-    "static/js/453.a5b25d5b.chunk.js": "/Bihan-Banerjee/Portfolio-Website/static/js/453.a5b25d5b.chunk.js",
-    "index.html": "/Bihan-Banerjee/Portfolio-Website/index.html",
-    "main.d52c0920.css.map": "/Bihan-Banerjee/Portfolio-Website/static/css/main.d52c0920.css.map",
-    "main.ef56519a.js.map": "/Bihan-Banerjee/Portfolio-Website/static/js/main.ef56519a.js.map",
-    "453.a5b25d5b.chunk.js.map": "/Bihan-Banerjee/Portfolio-Website/static/js/453.a5b25d5b.chunk.js.map"
+    "main.css": "/Portfolio-Website/static/css/main.d52c0920.css",
+    "main.js": "/Portfolio-Website/static/js/main.a537c536.js",
+    "static/js/453.a5b25d5b.chunk.js": "/Portfolio-Website/static/js/453.a5b25d5b.chunk.js",
+    "index.html": "/Portfolio-Website/index.html",
+    "main.d52c0920.css.map": "/Portfolio-Website/static/css/main.d52c0920.css.map",
+    "main.a537c536.js.map": "/Portfolio-Website/static/js/main.a537c536.js.map",
+    "453.a5b25d5b.chunk.js.map": "/Portfolio-Website/static/js/453.a5b25d5b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d52c0920.css",
-    "static/js/main.ef56519a.js"
+    "static/js/main.a537c536.js"
   ]
 }
