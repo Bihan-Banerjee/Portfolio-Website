@@ -120,7 +120,7 @@ const ExperienceInfo = [
     {
         role: "R&D Senior Core Member",
         company: "IEEE Computer Society, VIT",
-        date: "May 2024 - Present",
+        date: "May 2024 - Sept 2025",
         desc: "In my role as a senior core member of the R&D team, I worked on research-driven development projects, explored innovative tech stacks, and contributed to IEEE CS’s annual publications and internal tools. I also mentored junior members and helped drive the technical direction of ongoing society initiatives.",
         skills: ["Research & Documentation", "Technical Writing", "Mentorship", "Git", "Blog Writing"]
     },
