@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Bihan-Banerjee/Portfolio-Website/static/css/main.d52c0920.css",
-    "main.js": "/Bihan-Banerjee/Portfolio-Website/static/js/main.82210eb1.js",
+    "main.js": "/Bihan-Banerjee/Portfolio-Website/static/js/main.ef56519a.js",
     "static/js/453.a5b25d5b.chunk.js": "/Bihan-Banerjee/Portfolio-Website/static/js/453.a5b25d5b.chunk.js",
     "index.html": "/Bihan-Banerjee/Portfolio-Website/index.html",
     "main.d52c0920.css.map": "/Bihan-Banerjee/Portfolio-Website/static/css/main.d52c0920.css.map",
-    "main.82210eb1.js.map": "/Bihan-Banerjee/Portfolio-Website/static/js/main.82210eb1.js.map",
+    "main.ef56519a.js.map": "/Bihan-Banerjee/Portfolio-Website/static/js/main.ef56519a.js.map",
     "453.a5b25d5b.chunk.js.map": "/Bihan-Banerjee/Portfolio-Website/static/js/453.a5b25d5b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d52c0920.css",
-    "static/js/main.82210eb1.js"
+    "static/js/main.ef56519a.js"
   ]
 }
