@@ -1,4 +1,4 @@
-import { IconBrandGithub, IconBrandInstagram, IconBrandLeetcode, IconBrandLinkedin, IconBrandTwitter, IconBrandX, IconBrandYoutube } from "@tabler/icons-react";
+import { IconBrandGithub, IconBrandInstagram, IconBrandLeetcode, IconBrandLinkedin, IconBrandX} from "@tabler/icons-react";
 const Info = {
     name: "Bihan Banerjee",
     stack: ["3rd Year Undergraduate", "Full Stack Web Developer", "Competitive Programmer", "Cybersecurity Enthusiast", "AIML Enthusiast"],
