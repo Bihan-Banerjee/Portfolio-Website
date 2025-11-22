@@ -48,9 +48,9 @@ const ProjectInfo = [
         title: "Secure Code Whisperer",
         desc: "Secure Code Whisperer is a cutting-edge web platform designed to analyze and secure AI-generated source code. The system accepts code snippets or uploaded files from models like ChatGPT, Gemini, or Copilot and scans them for vulnerabilities using tools like Semgrep, SonarQube, and Bandit. It then suggests or applies AI-generated security patches, ensuring safer deployments. The platform features a React + TypeScript frontend, Flask backend, and a modular design that supports multiple programming languages. Ideal for researchers and developers, it offers real-time insights, auto-fixes, and visual reports for secure development workflows.",
         image: "Secure Code Whisperer.png",
-        live: false,
+        live: true,
         technologies: ["React", "TypeScript", "Flask", "Python", "Semgrep", "SonarQube"],
-        link: "https://github.com/Bihan-Banerjee/AI-Code-Security",
+        link: "https://ai-code-security.vercel.app/",
         github: "https://github.com/Bihan-Banerjee/AI-Code-Security"
     },
     {
