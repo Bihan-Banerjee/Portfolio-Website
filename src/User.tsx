@@ -14,8 +14,26 @@ const ProjectInfo = [
         image: "Serenity Gardens.png",
         live: true,
         technologies: ["React","TypeScript", "Tailwind", "Node.js", "MongoDB", "Express.js"],
-        link: "https://serenity-gardens-pi.vercel.app/",
+        link: "https://www.serenitygardens.online/",
         github: "https://github.com/Bihan-Banerjee/Serenity-Gardens/"
+    },
+    {
+        title: "FortiScan",
+        desc: "FortiScan is a cutting-edge web platform designed to analyze and secure AI-generated source code. The system accepts code snippets or uploaded files from models like ChatGPT, Gemini, or Copilot and scans them for vulnerabilities using tools like Semgrep, SonarQube, and Bandit. It then suggests or applies AI-generated security patches, ensuring safer deployments. The platform features a React + TypeScript frontend, Flask backend, and a modular design that supports multiple programming languages. Ideal for researchers and developers, it offers real-time insights, auto-fixes, and visual reports for secure development workflows.",
+        image: "FortiScan.png",
+        live: true,
+        technologies: ["React", "TypeScript", "Flask", "Python", "Semgrep", "SonarQube"],
+        link: "https://ai-code-security.vercel.app/",
+        github: "https://github.com/Bihan-Banerjee/AI-Code-Security"
+    },
+    {
+        title: "CyberX",
+        desc: "CyberX is a comprehensive web-based cybersecurity toolkit designed for learning, analysis, and simulation. It integrates offensive and defensive tools into a unified platform, including container and Kubernetes scanners, cryptography utilities (hashing, cipher, RSA/AES, JWT), steganography modules (image, audio, metadata), OSINT tools (breach checker, Google dorking), and advanced features like network packet analysis. The project emphasizes real-world applicability by combining security assessments, intelligence gathering, and defensive simulations with a clean cyberpunk-themed UI. Its modular backend enables scalability, while the frontend provides interactive, visually consistent components for professional-grade demonstrations.",
+        image: "Cyber-X.png",
+        live: false,
+        technologies: ["React", "TypeScript", "Python", "Wireshark", "Node.js"],
+        link: "https://github.com/Bihan-Banerjee/Cyber-X",
+        github: "https://github.com/Bihan-Banerjee/Cyber-X"
     },
     {
         title: "Map-It",
@@ -27,15 +45,6 @@ const ProjectInfo = [
         github: "https://github.com/Bihan-Banerjee/Map-It"
     },
     {
-        title: "ConsumeWise AI-Eyes",
-        desc: "ConsumeWise AI-Eyes is an AI-powered health tracking tool designed to assess the nutritional quality of food products by scanning barcodes or entering EAN numbers. The platform delivers insights into ingredients, additives, and potential health risks using advanced language models. Built with a React frontend and Node.js backend, it ensures fast, responsive user experience and accurate information retrieval. By integrating Google's Gemini API and a MongoDB database, the app combines AI reasoning with scalable data handling for personalized recommendations.",
-        image: "ConsumeWise.png",
-        live: false,
-        technologies: ["React", "Node.js", "Express.js", "Gemini API", "MongoDB"],
-        link: "https://github.com/ArshSharan/ConsumeWise-AI-Eyes",
-        github: "https://github.com/ArshSharan/ConsumeWise-AI-Eyes"
-    },
-    {
         title: "NeuroPharm",
         desc: "NeuroPharm is an AI-powered research platform focused on drug discovery, enabling users to input protein IDs and visualize the best ligand interactions in 3D. By leveraging cutting-edge tools like AlphaFold for protein structures and ChEMBL for ligand databases, it automates complex bioinformatics processes. The system utilizes a full-stack architecture (React, Node.js, MongoDB) along with Python-powered molecular computation to deliver meaningful pharmacological predictions and visual insights for researchers and developers alike.",
         image: "NeuroPharm.png",
@@ -45,22 +54,13 @@ const ProjectInfo = [
         github: "https://github.com/ArshSharan/GenZ-AI-NeuroPharm"
     },
     {
-        title: "Secure Code Whisperer",
-        desc: "Secure Code Whisperer is a cutting-edge web platform designed to analyze and secure AI-generated source code. The system accepts code snippets or uploaded files from models like ChatGPT, Gemini, or Copilot and scans them for vulnerabilities using tools like Semgrep, SonarQube, and Bandit. It then suggests or applies AI-generated security patches, ensuring safer deployments. The platform features a React + TypeScript frontend, Flask backend, and a modular design that supports multiple programming languages. Ideal for researchers and developers, it offers real-time insights, auto-fixes, and visual reports for secure development workflows.",
-        image: "Secure Code Whisperer.png",
-        live: true,
-        technologies: ["React", "TypeScript", "Flask", "Python", "Semgrep", "SonarQube"],
-        link: "https://ai-code-security.vercel.app/",
-        github: "https://github.com/Bihan-Banerjee/AI-Code-Security"
-    },
-    {
-        title: "CyberX",
-        desc: "CyberX is a comprehensive web-based cybersecurity toolkit designed for learning, analysis, and simulation. It integrates offensive and defensive tools into a unified platform, including container and Kubernetes scanners, cryptography utilities (hashing, cipher, RSA/AES, JWT), steganography modules (image, audio, metadata), OSINT tools (breach checker, Google dorking), and advanced features like network packet analysis. The project emphasizes real-world applicability by combining security assessments, intelligence gathering, and defensive simulations with a clean cyberpunk-themed UI. Its modular backend enables scalability, while the frontend provides interactive, visually consistent components for professional-grade demonstrations.",
-        image: "CyberX.png",
+        title: "ConsumeWise AI-Eyes",
+        desc: "ConsumeWise AI-Eyes is an AI-powered health tracking tool designed to assess the nutritional quality of food products by scanning barcodes or entering EAN numbers. The platform delivers insights into ingredients, additives, and potential health risks using advanced language models. Built with a React frontend and Node.js backend, it ensures fast, responsive user experience and accurate information retrieval. By integrating Google's Gemini API and a MongoDB database, the app combines AI reasoning with scalable data handling for personalized recommendations.",
+        image: "ConsumeWise.png",
         live: false,
-        technologies: ["React", "TypeScript", "Python", "Wireshark", "Node.js"],
-        link: "https://github.com/Bihan-Banerjee/CyberX",
-        github: "https://github.com/Bihan-Banerjee/CyberX"
+        technologies: ["Docker", "Gemini API", "MongoDB"],
+        link: "https://github.com/ArshSharan/ConsumeWise-AI-Eyes",
+        github: "https://github.com/ArshSharan/ConsumeWise-AI-Eyes"
     },
 //    {
 //        title: "RogueAI",
