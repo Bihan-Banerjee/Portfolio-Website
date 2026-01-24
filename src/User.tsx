@@ -111,10 +111,10 @@ const socialLinks = [
 
 const ExperienceInfo = [
     {
-        role: "Events Head",
+        role: "General Secretary",
         company: "Mozilla Firefox Club VIT",
         date: "June 2024 - Present",
-        desc: "As Events Head, I spearheaded the planning and execution of technical workshops, speaker sessions, and hands-on hack events focused on open-source and emerging technologies. I collaborated with external clubs and industry experts to curate engaging content and boost student participation across campus.",
+        desc: "As the General Secretary and former Events Head, I spearheaded the planning and execution of technical workshops, speaker sessions, and hands-on hack events focused on open-source and emerging technologies. I collaborated with external clubs and industry experts to curate engaging content and boost student participation across campus.",
         skills: ["General Management", "Public Speaking", "Team Leadership", "Event Planning", "Outreach"]
     },
     {
