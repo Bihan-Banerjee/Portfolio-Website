@@ -9,13 +9,13 @@ const Info = {
 
 const ProjectInfo = [
     {
-        title: "Serenity Gardens",
-        desc: "Serenity Gardens is a dynamic, full-stack web platform designed to showcase and manage a family-owned garden estate. Built with the MERN stack (MongoDB, Express, React, Node.js) and styled using TailwindCSS, it features a modern, mobile-friendly interface for both visitors and administrators. Users can explore the rich biodiversity of the estate, browse a multimedia gallery, read reviews, and shop for home-grown produce, fish, and flowers. The Shop module includes secure user authentication, a persistent cart, and payment options via UPI, cash, or card. Admins can log in to manage product listings and view orders. Serenity Gardens blends natural beauty with technical sophistication for an engaging and immersive experience.",
-        image: "SerenityGardens.png",
+        title: "CyberX",
+        desc: "CyberX is a comprehensive web-based cybersecurity toolkit designed for learning, analysis, and simulation. It integrates offensive and defensive tools into a unified platform, including container and Kubernetes scanners, cryptography utilities (hashing, cipher, RSA/AES, JWT), steganography modules (image, audio, metadata), OSINT tools (breach checker, Google dorking), and advanced features like network packet analysis. The project emphasizes real-world applicability by combining security assessments, intelligence gathering, and defensive simulations with a clean cyberpunk-themed UI. Its modular backend enables scalability, while the frontend provides interactive, visually consistent components for professional-grade demonstrations.",
+        image: "Cyber-X.png",
         live: true,
-        technologies: ["React","TypeScript", "Tailwind", "Node.js", "MongoDB", "Express.js"],
-        link: "https://www.serenitygardens.online/",
-        github: "https://github.com/Bihan-Banerjee/Serenity-Gardens/"
+        technologies: ["React", "TypeScript", "Python", "Wireshark", "Node.js"],
+        link: "https://cyber-x-coral.vercel.app/",
+        github: "https://github.com/Bihan-Banerjee/Cyber-X"
     },
     {
         title: "FortiScan",
@@ -27,13 +27,13 @@ const ProjectInfo = [
         github: "https://github.com/Bihan-Banerjee/AI-Code-Security"
     },
     {
-        title: "CyberX",
-        desc: "CyberX is a comprehensive web-based cybersecurity toolkit designed for learning, analysis, and simulation. It integrates offensive and defensive tools into a unified platform, including container and Kubernetes scanners, cryptography utilities (hashing, cipher, RSA/AES, JWT), steganography modules (image, audio, metadata), OSINT tools (breach checker, Google dorking), and advanced features like network packet analysis. The project emphasizes real-world applicability by combining security assessments, intelligence gathering, and defensive simulations with a clean cyberpunk-themed UI. Its modular backend enables scalability, while the frontend provides interactive, visually consistent components for professional-grade demonstrations.",
-        image: "Cyber-X.png",
-        live: false,
-        technologies: ["React", "TypeScript", "Python", "Wireshark", "Node.js"],
-        link: "https://github.com/Bihan-Banerjee/Cyber-X",
-        github: "https://github.com/Bihan-Banerjee/Cyber-X"
+        title: "Serenity Gardens",
+        desc: "Serenity Gardens is a dynamic, full-stack web platform designed to showcase and manage a family-owned garden estate. Built with the MERN stack (MongoDB, Express, React, Node.js) and styled using TailwindCSS, it features a modern, mobile-friendly interface for both visitors and administrators. Users can explore the rich biodiversity of the estate, browse a multimedia gallery, read reviews, and shop for home-grown produce, fish, and flowers. The Shop module includes secure user authentication, a persistent cart, and payment options via UPI, cash, or card. Admins can log in to manage product listings and view orders. Serenity Gardens blends natural beauty with technical sophistication for an engaging and immersive experience.",
+        image: "SerenityGardens.png",
+        live: true,
+        technologies: ["React","TypeScript", "Tailwind", "Node.js", "MongoDB", "Express.js"],
+        link: "https://www.serenitygardens.online/",
+        github: "https://github.com/Bihan-Banerjee/Serenity-Gardens/"
     },
     {
         title: "Map-It",
