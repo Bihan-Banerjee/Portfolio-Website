@@ -93,23 +93,23 @@ const ProjectInfo = [
 const SkillInfo = [
     {
         title: "Frontend",
-        skills: ["HTML", "CSS", "TypeScript", "JavaScript", "React JS", "Next.js", "Vite", "Redux", "Tailwind CSS", "Leaflet", "Material UI", "Bootstrap"]
+        skills: ["HTML", "CSS", "TypeScript", "JavaScript", "React JS", "Next.js", "Angular", "Vite", "Redux", "Tailwind CSS", "Leaflet", "Bootstrap"]
     },
     {
         title: "Backend",
-        skills: ["Flask", "FastAPI", "Node JS", "Express JS", "MySQL", "MS SQL Server", "MongoDB", "Firebase", "PostgresSQL"]
+        skills: ["Flask", "FastAPI", "Node JS", "Express JS", "MySQL", "MS SQL", "MongoDB", "Firebase", "PostgresSQL"]
     },
     {
         title: "Cybersecurity",
-        skills: ["Kali Linux", "Wireshark", "Burp Suite", "Metasploit", "SonarQube", "Semgrep", "Bash"]
+        skills: ["Kali Linux", "Wireshark", "Burp Suite", "Metasploit", "SonarQube", "Semgrep", "Bandit", "Trivy", "OWASP ZAP", "Nmap"]
     },
     {
         title: "DevSecOps & Cloud",
-        skills: ["Docker", "Kubernetes", "Terraform", "AWS", "GitHub Actions", "Prometheus", "Grafana", "Kafka"]
+        skills: ["Docker", "Kubernetes", "Terraform", "AWS", "Helm", "GitHub Actions", "Prometheus", "Grafana", "Kafka"]
     },
     {
         title: "Languages & Tools",
-        skills: ["C", "C++", "Java", "JavaScript", "TypeScript", "Python", "Git", "Github"]
+        skills: ["C", "C++", "Java", "JavaScript", "TypeScript", "Python", "Git", "Github", "Bash"]
     },
     {
         title: "Machine Learning",
@@ -119,7 +119,7 @@ const SkillInfo = [
 
 const socialLinks = [
     { link: "https://github.com/Bihan-Banerjee", icon: IconBrandGithub },
-    { link: "https://www.linkedin.com/in/bihan-banerjee-70905228b/", icon: IconBrandLinkedin },
+    { link: "https://www.linkedin.com/in/bihan-banerjee26/", icon: IconBrandLinkedin },
     { link: "https://www.instagram.com/banerjee.bihan/", icon: IconBrandInstagram },
     { link: "https://x.com/BanerjeeBihan", icon: IconBrandX },
     { link: "https://www.leetcode.com/u/Bihan26/", icon: IconBrandLeetcode }
@@ -157,65 +157,24 @@ const ExperienceInfo = [
 ]
 
 const Slugs = [
-    "typescript",
-    "javascript",
-    "python",
-    "java",
-    "cplusplus",
-    "c",
-    "react",
-    "nextdotjs",
-    "html5",
-    "css3",
-    "tailwindcss",
-    "vite",
-    "redux",
-    "leaflet",     
-    "materialui",
-    "bash",
-    "d3dotjs",
-    "nodedotjs",
-    "express",
-    "flask",
-    "fastapi",
-    "mongodb",
-    "mysql",
-    "postgresql",
-    "firebase",
-    "sqlite",
-    "docker",
-    "kubernetes",
-    "terraform",
-    "amazonaws",
-    "githubactions",
-    "prometheus",
-    "grafana",
-    "apachekafka",    
-    "helm",       
-    "wireshark",      
-    "kalilinux",     
-    "metasploit",    
-    "sonarqube",     
-    "semgrep",       
-    "owasp",       
-    "jupyter",
-    "pandas",
-    "numpy",
-    "scikitlearn",
-    "tensorflow",
-    "git",
-    "github",
-    "visualstudiocode",
-    "postman",
-    "canva",
-    "unity",
-    "vercel",
-    "bootstrap",
-    "microsoftsqlserver",
-    "sqlite",
-    "helm",
-    "bootstrap",
-    "d3dotjs",
+    // Languages
+    "typescript", "javascript", "python", "java", "cplusplus", "c",
+    // Frontend
+    "react", "nextdotjs", "angular", "html5", "css3", "tailwindcss",
+    "vite", "redux", "leaflet", "materialui", "bootstrap", "d3dotjs",
+    // Backend
+    "nodedotjs", "express", "flask", "fastapi", "bash",
+    // Databases
+    "mongodb", "mysql", "postgresql", "firebase", "sqlite", "microsoftsqlserver",
+    // DevSecOps & Cloud
+    "docker", "kubernetes", "terraform", "amazonaws", "githubactions",
+    "prometheus", "grafana", "apachekafka", "helm",
+    // Cybersecurity
+    "wireshark", "kalilinux", "metasploit", "sonarqube", "semgrep", "owasp", "burpsuite",
+    // ML
+    "jupyter", "pandas", "numpy", "scikitlearn", "tensorflow",
+    // Tools
+    "git", "github", "visualstudiocode", "postman", "canva", "vercel",
 ];
 
 export { Info, ProjectInfo, socialLinks, SkillInfo, ExperienceInfo, Slugs };
