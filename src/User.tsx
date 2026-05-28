@@ -3,7 +3,7 @@ import { IconBrandGithub, IconBrandInstagram, IconBrandLeetcode, IconBrandLinked
 const Info = {
     name: "Bihan Banerjee",
     stack: ["Final Year Undergraduate", "Full Stack Web Developer", "DevSecOps Engineer", "Cybersecurity Researcher", "AIML Enthusiast"],
-    bio: "I am a final year Computer Science student at VIT Vellore specialising in Information Security, with hands-on experience in cybersecurity, full-stack development and DevSecOps. I have built and shipped production-grade security tools including a PyPI-published CLI with 1,700+ downloads, filed a patent for AI-generated code analysis, and interned at Reliance Industries. I am passionate about building systems that sit at the intersection of security, infrastructure, and intelligent automation. Let's connect to discuss security research, open-source projects, or potential opportunities."
+    bio: "I am a final year Computer Science student at VIT Vellore specialising in Information Security, with hands-on experience in cybersecurity, full-stack development and DevSecOps. I have built and shipped production-grade security tools including a PyPI-published CLI with 2,500+ downloads, filed a patent for AI-generated code analysis, and interned at Reliance Industries. I am passionate about building systems that sit at the intersection of security, infrastructure, and intelligent automation. Let's connect to discuss security research, open-source projects, or potential opportunities."
 }
 
 const ProjectInfo = [
@@ -40,7 +40,7 @@ const ProjectInfo = [
         image: "SheetSync.png",
         live: true,
         technologies: ["Next.js", "React", "Firebase", "TypeScript", "Tailwind CSS"],
-        link: "https://github.com/Bihan-Banerjee/SheetSync",
+        link: "https://sheet-sync-beryl.vercel.app/",
         github: "https://github.com/Bihan-Banerjee/SheetSync"
     },
     {
